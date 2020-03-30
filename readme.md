@@ -1,3 +1,5 @@
+<img src="github.com/willalexander/paductivity/images/screenshot01.png">
+
 <p>I wrote this app in 2010/2011 for the early iterations of the iPad.
 <p>There was no split-screen multi tasking at the time, so I developed this app which allows the user to divide the screen into 
 multiple sub-apps which could be used simultaneously. The options were: a note taking app, a calendar, a web browser and a calculator. 
