@@ -5,4 +5,4 @@ The app never made it on to the app store, as it was rejected for breaching guid
 <p>Written in C++ and Objective-C.
 <p>Supports iOS 4 and below.
   
-  <img src="/images/screenshot01.png" width=75%/><img src="/images/screenshot02.png" width=75%/>
+  <img src="/images/screenshot01.png" width=50%/><img src="/images/screenshot02.png" width=50%/>
