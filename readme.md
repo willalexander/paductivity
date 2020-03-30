@@ -1,4 +1,4 @@
-<img src="github.com/willalexander/paductivity/images/screenshot01.png">
+<img src="/images/screenshot01.png">
 
 <p>I wrote this app in 2010/2011 for the early iterations of the iPad.
 <p>There was no split-screen multi tasking at the time, so I developed this app which allows the user to divide the screen into 
